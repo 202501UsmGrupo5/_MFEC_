@@ -166,7 +166,7 @@ conda install pip
 
 ---
 
-## 💾 PASO 2: Configurar el entorno del proyecto
+## 💾 PASO 3: Configurar el entorno del proyecto
 
 1. Crea un entorno virtual (opcional pero recomendado):
 
@@ -196,7 +196,7 @@ pip install PyQt5 mysql-connector-python
 ---
 
 
-## 🖥️ PASO 3: Ejecutar la aplicación
+## 🖥️ PASO 4: Ejecutar la aplicación
 
 1. Abre tu terminal o consola.
 2. Navega a la carpeta raíz del proyecto:
@@ -215,7 +215,7 @@ python main.py
 
 ---
 
-## ✅ PASO 4: Usar la interfaz gráfica
+## ✅ PASO 5: Usar la interfaz gráfica
 
 Una vez dentro del sistema, verás el **menú principal** con 2 opciones:
 
@@ -247,7 +247,7 @@ Accede a:
 
 ---
 
-## 🔍 PASO 5: Verificación del funcionamiento
+## 🔍 PASO 6: Verificación del funcionamiento
 
 Para asegurarte de que todo funciona correctamente:
 
