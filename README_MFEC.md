@@ -47,7 +47,7 @@ y haz clic en *Install Now*.
 
 4. Verifica la instalación abriendo una terminal (CMD o PowerShell):
 
-## 🧪 4. Verifica la instalación de Python
+##  Verifica la instalación de Python
 
 Abre una terminal (CMD o PowerShell en Windows, o Terminal en macOS/Linux) y ejecuta:
 
