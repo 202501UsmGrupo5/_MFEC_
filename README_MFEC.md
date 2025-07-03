@@ -3,6 +3,13 @@
 
 Proyecto final para el curso *ICN292 - Sistemas de Información para la Gestión* de la Universidad Técnica Federico Santa María.
 
+## 📦 Descargar archivos del proyecto
+
+Puedes descargar el paquete comprimido con todos los archivos desde aquí:
+
+👉 [Descargar Codigo_MFEC.zip](Codigo_MFEC.zip)
+
+
 Este software implementa un Sistema de Información para la Gestión (SIG) utilizando *Python, **MySQL* y *PyQt5*, permitiendo optimizar procesos de la organización a través de una interfaz gráfica.
 
 ---
